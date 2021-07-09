@@ -1,0 +1,9 @@
+body {
+background-image: linear-gradient(rgb(35,196,75),rgb(136, 133, 133));
+}
+p, h1, h3{
+    text-align: center;
+}
+p{ 
+  color: rgb(255, 255, 137);
+}
